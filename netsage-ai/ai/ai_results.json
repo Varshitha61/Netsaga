@@ -1,0 +1,32 @@
+[
+  {
+    "diagnosis": "Mock diagnosis for dry run.",
+    "fault_category": "Unknown",
+    "evidence": [
+      "Mock evidence."
+    ],
+    "confidence": 0.5,
+    "recommended_fix": "Mock fix.",
+    "case_id": "CASE001"
+  },
+  {
+    "diagnosis": "Mock diagnosis for dry run.",
+    "fault_category": "Unknown",
+    "evidence": [
+      "Mock evidence."
+    ],
+    "confidence": 0.5,
+    "recommended_fix": "Mock fix.",
+    "case_id": "CASE002"
+  },
+  {
+    "diagnosis": "Mock diagnosis for dry run.",
+    "fault_category": "Unknown",
+    "evidence": [
+      "Mock evidence."
+    ],
+    "confidence": 0.5,
+    "recommended_fix": "Mock fix.",
+    "case_id": "CASE003"
+  }
+]

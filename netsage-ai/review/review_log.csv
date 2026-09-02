@@ -1,0 +1,3 @@
+timestamp,case_id,ai_diagnosis,ai_confidence,human_decision,comments
+2026-09-02T15:27:58.998290,CASE001,Mock diagnosis for dry run.,0.5,Accepted,
+2026-09-02T15:27:58.998290,CASE002,Mock diagnosis for dry run.,0.5,Rejected,Need more evidence
